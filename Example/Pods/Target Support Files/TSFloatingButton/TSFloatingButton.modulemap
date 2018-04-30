@@ -1,0 +1,6 @@
+framework module TSFloatingButton {
+  umbrella header "TSFloatingButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
